@@ -1,5 +1,4 @@
-Pavel 
-Konovalov
+Pavel Konovalov
 
 Contacts.
 	+972559235191 WhatsApp, Viber, Telegram;
