@@ -5,7 +5,6 @@ Contacts.
 
 	mavlin1@yandex.com, 
 	konovalovp@mail.ru,
-	
 	https://github.com/Mavline           
 
 	I'm 40 y.o. and I live in Israel for 3 last years (I was borned and lived in USSR and Russia untill 2014 and than in Turkey). For more than last 15 years of my life I'm entrepreneur on different areas of bussenes from cleaning services to financial services. And more than 10 of them the part of my bussenes consist of selling, reselling, repairing of computers. I can repair or restore any computer equipment but I never coded. I want to dive to computing sciences such as I see the next logical step of knowledge developing for me.
